@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    font-size: 32px;
+}
+#port
+{
+    color:chartreuse;
+}
+#aboutme
+{
+    color: brown;
+    padding-left: 5%;
+}
+.myself
+{
+    margin: 4%;
+    width: 33%;
+    border: 5px solid red;
+    border-radius: 5px;
+    padding: 10px;
+    float: left;
+    display: inline-block;
+    padding-left: 6%;
+    
+}
+#biosample
+{
+    font-size: 25px;
+    box-shadow: 10px 10px 40px rgb(250, 28, 28);
+    border-radius: 10px;
+    height: 45%;
+    width: 65%;
+}
+#propic
+{
+    padding-left: 15%;
+}
+.half-width
+{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.knowme2
+{
+    margin-top: 3%;
+    margin-left: 3%;
+    margin-right:3%;
+    float: left;
+    display: inline-block;
+    padding-right: 6%;
+}
+.knowmedetails
+{
+    padding-left: 3%;
+    width:23%;
+}
