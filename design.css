@@ -2,13 +2,29 @@ body{
     margin: 0;
     font-family: 'Lato', sans-serif;
 }
+.navbar li
+{
+    width:220px;
+    display:inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    float: right;
+    
+}
+.navbar
+{
+   
+    font-size: 20px;
+    
+}
 h1{
     font-size: 32px;
 }
 #port
 {
-    color:chartreuse;
+    color: rgb(4, 151, 78);
 }
+
 #aboutme
 {
     color: brown;
@@ -16,44 +32,119 @@ h1{
 }
 .myself
 {
-    margin: 4%;
-    width: 33%;
-    border: 5px solid red;
+    margin-top: 4%;
+    margin-left: 2%;
+    margin-right: 3%;
+    width: 40%;
+    border: 2px solid red;
     border-radius: 5px;
     padding: 10px;
     float: left;
-    display: inline-block;
-    padding-left: 6%;
+    padding-left: 10px;
     
-}
-#biosample
-{
-    font-size: 25px;
-    box-shadow: 10px 10px 40px rgb(250, 28, 28);
-    border-radius: 10px;
-    height: 45%;
-    width: 65%;
-}
-#propic
-{
-    padding-left: 15%;
 }
 .half-width
 {
-    background-image: url("images/top-banner.png");
-    background-repeat: no-repeat;
+    
 }
-.knowme2
+.biosample
 {
-    margin-top: 3%;
-    margin-left: 3%;
-    margin-right:3%;
+    font-size: 25px;
+    box-shadow: 10px 10px 40px rgb(122, 122, 122);
+    border-radius: 10px;
+    height: 40%;
+    width: 60%;
+}
+.propic
+{
+    padding-left: 15%;
+    padding-top: 3%;
+}
+.propic2
+{
+    padding-left: 10px;
+    padding-top: 8px;
     float: left;
     display: inline-block;
-    padding-right: 6%;
 }
-.knowmedetails
+
+.hyperlink
 {
-    padding-left: 3%;
-    width:23%;
+    color: White;
+    text-decoration: none;
+    background-color: rgb(84, 190, 137);
+    padding:2px 20px;
+    border-radius: 8px;
 }
+.proskill
+{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 50%;
+    border: 2px solid red;
+    border-radius: 5px;
+    padding-left: 7%;
+    float: left;
+}
+.half-width-second
+{
+    width: 45%;
+    float: left;
+    display: inline-block;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
